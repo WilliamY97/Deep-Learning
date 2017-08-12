@@ -27,8 +27,7 @@ else:
     print('One of the outputs were incorrect.\n')
 print(output_frame.to_string(index=False))
 
-# Return
-
+# Program Output:
 # Input 1    Input 2    Linear Combination    Activation Output   Is Correct
 #      0          0                  -4.0                    0          Yes
 #      0          1                  -3.0                    0          Yes
