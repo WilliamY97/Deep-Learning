@@ -29,9 +29,9 @@ print(output_frame.to_string(index=False))
 
 # Return
 
-/* Input 1    Input 2    Linear Combination    Activation Output   Is Correct
-      0          0                  -4.0                    0          Yes
-      0          1                  -3.0                    0          Yes
-      1          0                  -1.0                    0          Yes
-      1          1                   0.0                    1          Yes
-*/
+# Input 1    Input 2    Linear Combination    Activation Output   Is Correct
+#      0          0                  -4.0                    0          Yes
+#      0          1                  -3.0                    0          Yes
+#      1          0                  -1.0                    0          Yes
+#      1          1                   0.0                    1          Yes
+
